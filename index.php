@@ -17,5 +17,8 @@
         echo ($c);
         echo ('PHP is here');
     ?>
+    <p>
+        <img src="фонтру.JPG" alt="Фон">
+    </p>
 </body>
 </html>
