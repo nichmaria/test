@@ -6,16 +6,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
-    H1 { 
-        font-size: 200%; 
-        font-family: Times New Roman; 
-        color: #000080; 
-    }
-    p{
-        font-family: Times New Roman;
-        font-size: 90%;
-    }
-  </style>
+        H1 {
+            color: #70aa29;
+            font-size: 200%;
+            font-family: 'Times New Roman', Times, serif;
+            text-align: left;
+        }
+        P {
+            padding-left: 20px;
+        }
+    </style>
+    
 </head>
 <body>
     <h1>А. Блок</h1>
