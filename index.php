@@ -12,7 +12,8 @@
         color: #000080; 
     }
     p{
-        color: #878003;
+        font-family: Times New Roman;
+        font-size: 90%;
     }
   </style>
 </head>
