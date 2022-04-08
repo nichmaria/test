@@ -18,7 +18,7 @@
         echo ('PHP is here');
     ?>
     <p>
-        <img src="фонтру.JPG" alt="Фон">
+        <img src="фонтру.JPG" width="500" height="350" alt="Фон">
     </p>
 </body>
 </html>
