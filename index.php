@@ -5,21 +5,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <style>
-        H1 {
-            color: #70aa29;
-            font-size: 200%;
-            font-family: 'Times New Roman', Times, serif;
-            text-align: left;
-        }
-        P {
-            padding-left: 20px;
-        }
-    </style>
+    <link rel="stylesheet" href="style.css">
     
 </head>
 <body>
-    <h1>А. Блок</h1>
+    <h1 class="header">А. Блок</h1>
+    <h1>Ночь, улица, фонарь, аптека</h1>
     <p>
         Ночь, улица, фонарь, аптека,<br>
         Бессмысленный и тусклый свет.<br>
@@ -34,11 +25,7 @@
     </p>
 
     <?php
-        $a = 2;
-        $b = 7;
-        $c = $a * $b;
-        echo ($c);
-        echo ('PHP is here');
+        echo '2' . 5;
     ?>
     <p>
         <img src="фонтру.JPG" width="500" height="350" alt="Фон">

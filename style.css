@@ -1,0 +1,14 @@
+h1 {
+    color: red;
+    font-size: 200%;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+}
+
+p {
+    padding-left: 20px;
+}
+
+.header {
+    color: blueviolet;
+}
